@@ -24,7 +24,15 @@ h2 {
     text-align: center;
     font-size: 45px;
     color: white;
-    text-shadow: 5px gray;
+    text-shadow: 1rem black;
     margin-top: 1em;
     margin-bottom: 1em;
+}
+
+#text {
+    background-color: white;
+    padding: 0.5rem; 
+    border-radius: 10px;
+    box-shadow: 20px #000;
+    margin: auto;
 }
