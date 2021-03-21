@@ -2,4 +2,20 @@ div.card>img {
     background-color: black;
 }
 
+#fondo {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(https://i.pinimg.com/originals/49/73/ea/4973ead72580df908af111b6770fe6ac.jpg);
+}
+
+footer{
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    background: rgba(255, 255, 255, 0.856);
+}
 
